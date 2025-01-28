@@ -1,3 +1,9 @@
+Hello Jonni,
+
+You will find my response to the following tickets in this link here:
+https://www.notion.so/Customer-Success-Engineer-Take-Home-Challenge-187344cfcec180208a00d4e00ec161dd?pvs=4
+
+
 # Resend with Next.js (Pages Router)
 
 This example shows how to use Resend with [Next.js](https://nextjs.org).
